@@ -38,7 +38,7 @@
 
 ### 3.2 Тест klgtu.ru  
 **Команда:** `ping klgtu.ru`  
-![ping klgtu](img/ping-klgtu.png)  
+![ping klgtu](img/ping_klgtu.png)  
 **Вывод:** Узел klgtu.ru доступен, время ответа 28–29 мс, потерь нет.
 
 ### 3.3 Тест yandex.ru  
