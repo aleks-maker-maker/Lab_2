@@ -43,7 +43,7 @@
 
 ### 3.3 Тест yandex.ru  
 **Команда:** `ping yandex.ru`  
-![ping yandex](img/ping-yandex.png)  
+![ping yandex](img/ping_yandex.png)  
 **Вывод:** Узел yandex.ru доступен, время ответа 22 мс, потерь нет.
 
 ### 3.4 Тест microsoft.com  
@@ -53,7 +53,7 @@
 
 ### 3.5 Непрерывный ping  
 **Команда:** `ping yandex.ru -t` (остановлен через Ctrl+C)  
-![ping yandex -t](img/ping-ya_-t.png)  
+![ping yandex -t](img/ping_ya_-t.png)  
 **Вывод:** За время теста отправлено 222 пакета, 0% потерь, среднее время 22 мс.
 
 ---
@@ -92,7 +92,7 @@
 ## 📊 Задание 7. WifiInfoView  
 
 **Утилита:** WifiInfoView.exe  
-![wifiinfoview](img/wifiinfo.png)  
+![wifiinfoview](img/wifeinfo.png)  
 
 **Вывод:** Обнаружено 7 беспроводных сетей. Для каждой отображается SSID, канал, качество сигнала, тип шифрования.
 
